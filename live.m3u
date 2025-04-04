@@ -1496,17 +1496,17 @@ https://hls.nntv.cn/nnlive/GGPD_24.m3u8$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="桂林新闻" tvg-logo="https://live.fanmingming.com/tv/桂林新闻.png" group-title="📡  广西频道",桂林新闻
 https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="📡  香港频道",Channel 5
-p3p://108.181.32.169:24423/642606de000ae43dede457c221b81de1$LR•IPV4
+p3p://108.181.32.169:25894/642606de000ae43dede457c221b81de1$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel 8.png" group-title="📡  香港频道",Channel 8
-p3p://108.181.32.169:24423/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
+p3p://108.181.32.169:25894/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="📡  香港频道",美亚电影台
-p3p://108.181.32.169:24423/642525310003ad3cea72ca2155c734c3$LR•IPV4
+p3p://108.181.32.169:25894/642525310003ad3cea72ca2155c734c3$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="📡  香港频道",Nick Jr
-p3p://108.181.32.169:24423/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
+p3p://108.181.32.169:25894/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="📡  香港频道",Nickelodeon
-p3p://108.181.32.169:24423/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
+p3p://108.181.32.169:25894/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="📡  香港频道",Thrill
-p3p://108.181.32.169:24423/644a0879000272f67a89b6687af342ae$LR•IPV4
+p3p://108.181.32.169:25894/644a0879000272f67a89b6687af342ae$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="📡  台湾频道",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="📡  台湾频道",AMC电影
@@ -1530,31 +1530,31 @@ https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="📡  新闻频道p2p",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
-p3p://108.181.32.169:24423/6465a784000201aee66e4af152371a81$LR•IPV4
+p3p://108.181.32.169:25894/6465a784000201aee66e4af152371a81$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="📡  新闻频道p2p",CNA
-p3p://108.181.32.169:24423/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
+p3p://108.181.32.169:25894/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MSNBC" tvg-logo="https://live.fanmingming.com/tv/MSNBC.png" group-title="📡  新闻频道p2p",MSNBC
-p3p://108.181.32.169:24423/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
+p3p://108.181.32.169:25894/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="The Weather Channel" tvg-logo="https://live.fanmingming.com/tv/The Weather Channel.png" group-title="📡  新闻频道p2p",The Weather Channel
-p3p://108.181.32.169:24423/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
+p3p://108.181.32.169:25894/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CatchPlay电影台" tvg-logo="https://live.fanmingming.com/tv/CatchPlay电影台.png" group-title="📡  电影频道p2p",CatchPlay电影台
-p3p://108.181.32.169:24423/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
+p3p://108.181.32.169:25894/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="东森电影台" tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="📡  电影频道p2p",东森电影台
-p3p://108.181.32.169:24423/64253899000a078deabe99ff587050b0$LR•IPV4
+p3p://108.181.32.169:25894/64253899000a078deabe99ff587050b0$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="纬来电影台" tvg-logo="https://live.fanmingming.com/tv/纬来电影台.png" group-title="📡  电影频道p2p",纬来电影台
 http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="📡  电影频道p2p",HBO
-p3p://108.181.32.169:24423/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
+p3p://108.181.32.169:25894/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="📡  电影频道p2p",HBO
 http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="📡  电影频道p2p",AXN
 http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影台" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影台.png" group-title="📡  电影频道p2p",好莱坞电影台
-p3p://108.181.32.169:24423/6425244f0001184fea6f56a70aca63d2$LR•IPV4
+p3p://108.181.32.169:25894/6425244f0001184fea6f56a70aca63d2$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.com/tv/CINEMAX.png" group-title="📡  电影频道p2p",CINEMAX
 http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BOO" tvg-logo="https://live.fanmingming.com/tv/BOO.png" group-title="📡  电影频道p2p",BOO
-p3p://108.181.32.169:24423/64137e860008ec16a58031233a436c8e$LR•IPV4
+p3p://108.181.32.169:25894/64137e860008ec16a58031233a436c8e$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="📡  电影频道p2p",CHC动作电影
 http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="📡  电影频道p2p",CHC动作电影
