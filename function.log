@@ -1,5 +1,5 @@
-2026-10-31 13:09:32,457 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by NameResolutionError("HTTPConnection(host='rihou.cc', port=567): Failed to resolve 'rihou.cc' ([Errno -5] No address associated with hostname)"))
-2026-10-31 13:09:34,215 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
-2026-10-31 13:09:34,879 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2026-10-31 13:09:35,820 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
-2026-10-31 13:09:35,823 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
+2026-10-31 22:27:07,920 - ERROR - url: http://rihou.cc:567/gggg.nzk 爬取失败❌, Error: HTTPConnectionPool(host='rihou.cc', port=567): Max retries exceeded with url: /gggg.nzk (Caused by NameResolutionError("HTTPConnection(host='rihou.cc', port=567): Failed to resolve 'rihou.cc' ([Errno -5] No address associated with hostname)"))
+2026-10-31 22:27:08,913 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt 获取成功，判断为txt格式
+2026-10-31 22:27:09,477 - INFO - url: https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2026-10-31 22:27:10,253 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
+2026-10-31 22:27:10,255 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
